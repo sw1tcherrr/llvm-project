@@ -467,6 +467,8 @@ set(LLVM_ALL_TARGETS
   WebAssembly
   X86
   XCore
+
+  Life
   )
 
 set(LLVM_ALL_EXPERIMENTAL_TARGETS
